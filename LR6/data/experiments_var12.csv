@@ -1,0 +1,4 @@
+config,objects,run1_delete_ms,run2_delete_ms,run3_delete_ms,run1_restore_ms,run2_restore_ms,run3_restore_ms,deleted_objects,restored_objects,snapshot_kb
+"А (10 шт., полный цикл)",10,0.42,0.39,0.41,0.68,0.65,0.66,10,10,0.85
+"Б (50 шт., сбой на 25 + откат)",50,1.15,1.12,1.18,2.95,2.88,2.91,25,50,4.2
+"В (100 шт., полный цикл)",100,3.8,3.74,3.85,5.6,5.52,5.58,100,100,8.4
